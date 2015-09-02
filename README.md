@@ -1,4 +1,4 @@
-* [ ] Blank slate
+* [] Blank slate
   * [ ] Create a GitHub repo called `palindromic`
   * [ ] Put a `README.md` file in it and copy palindrome.py and palindrome_test.py from this repository into it.
 * [ ] Normal Mode
